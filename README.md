@@ -1,6 +1,6 @@
 # SuperPerformanceScreener
 
-A Python-based tool that detects growth moves and superperformance in stocks using real-time data from the EODHD API and outputs results to Google Sheets.
+A Python-based tool that detects growth moves and superperformance in stocks using real-time data from the EODHD API or the Perplexity Sonar API (hallucination risk) and outputs results to Google Sheets.
 
 ## 🚀 Features
 
@@ -13,7 +13,7 @@ A Python-based tool that detects growth moves and superperformance in stocks usi
 ## 📋 Requirements
 
 - Python 3.9+
-- EODHD API key
+- EODHD API key OR Perplexity Sonar API Key 
 - Google Sheets API credentials
 - Internet connection for real-time data
 
