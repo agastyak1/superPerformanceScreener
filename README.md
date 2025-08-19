@@ -165,7 +165,6 @@ The tool creates detailed logs in `superperformance_screener.log` and outputs to
 - No sensitive data is logged
 - Google Sheets access is restricted to your specified spreadsheet
 
-## 📞 Support
 
 For issues or questions:
 
